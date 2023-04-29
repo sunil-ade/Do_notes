@@ -1,0 +1,2 @@
+# Do_notes
+NOTEPAD PROJECT IN JAVA 
